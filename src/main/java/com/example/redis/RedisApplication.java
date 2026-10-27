@@ -9,6 +9,7 @@ public class RedisApplication {
     public static void main(String[] args) {
         System.out.println("hello,git2");
         System.out.println("hello,git2");
+        System.out.println("码云test");
         SpringApplication.run(RedisApplication.class, args);
 
     }
