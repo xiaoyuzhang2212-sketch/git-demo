@@ -16,7 +16,13 @@ public class RedisApplication {
         System.out.println("hello,git");
         System.out.println("hello,git");
         System.out.println("hello,git");
-        System.out.println("hello,git");
+        System.out.println("hello,git2");
+        System.out.println("hello,git2");
+        System.out.println("hello,git2");
+        System.out.println("hello,git2");
+        System.out.println("hello,git2");
+        System.out.println("hello,git2");
+        System.out.println("hello,git2");
         SpringApplication.run(RedisApplication.class, args);
 
     }
