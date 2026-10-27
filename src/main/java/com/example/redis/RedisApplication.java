@@ -7,22 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RedisApplication {
 
     public static void main(String[] args) {
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("hello,git");
-        System.out.println("main test");
-        System.out.println("main test");
-        System.out.println("main test");
-
-        System.out.println("hello,git2");
-        System.out.println("hello,git2");
-        System.out.println("hello,git2");
         System.out.println("hello,git2");
         SpringApplication.run(RedisApplication.class, args);
 
